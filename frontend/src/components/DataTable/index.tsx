@@ -34,7 +34,7 @@ const DataTable = () => {
         <table className="table table-striped table-sm">
           <thead>
             <tr>
-              <th>Data</th>
+              <th>Data de venda</th>
               <th>Vendedor</th>
               <th>Clientes visitados</th>
               <th>Negócios fechados</th>
